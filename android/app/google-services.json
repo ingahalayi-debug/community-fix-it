@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677655184799",
+    "project_id": "community-fix-it",
+    "storage_bucket": "community-fix-it.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677655184799:android:6c3b9031a416b521a729aa",
+        "android_client_info": {
+          "package_name": "com.example.my_first_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWk24o-w_E3zrm_-2eNp4H3qHnDEPwPw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
